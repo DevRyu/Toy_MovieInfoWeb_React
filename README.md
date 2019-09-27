@@ -1,4 +1,3 @@
 # react-movie basic app! by Ryu
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+리엑트로 반응형 영화  웹 구축
